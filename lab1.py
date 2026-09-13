@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # What is your full name
 print("Jongsu Seo")
 # The area of a rectangle is length * width.
@@ -10,4 +7,4 @@ print(10 * 7)
 print(False)
 # Add one more color to the end of the list, after blue. (Don't forget the comma , and quotes "")
 print(["red", "orange", "blue", "white"])
->>>>>>> f3fe42a (Complete Lab 1)
+
